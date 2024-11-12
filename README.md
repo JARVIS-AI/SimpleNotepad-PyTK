@@ -1,7 +1,3 @@
-Here's a `README.md` for your Notepad text editor project:
-
----
-
 # Notepad Text Editor by JARVIS-AI
 
 **Version**: 1.0.8
