@@ -4,7 +4,7 @@ Here's a `README.md` for your Notepad text editor project:
 
 # Notepad Text Editor by JARVIS-AI
 
-**Version**: 1.0.0
+**Version**: 1.0.8
 
 A simple, lightweight Notepad-style text editor built in Python using Tkinter. This application offers basic text editing functionality in a user-friendly interface.
 
